@@ -31,7 +31,7 @@
         color: $mainBlue;
         font-size: 1.5rem;
         margin:0
-            @mixin atSmall{
+        @mixin atSmall{
                 font-size:2.5rem;
         }
     }
